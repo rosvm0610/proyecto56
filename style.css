@@ -1,0 +1,31 @@
+body {
+    color: azure;
+    text-align: center;
+    background-image: url(https://s1.eestatic.com/2020/01/20/imprescindibles/branded_content-amazon-marcas_destacadas_461216322_142869896_1706x960.jpg);
+    }
+
+div {
+    margin-top: 15px;
+    }
+
+.image-section {
+    display: flex;
+    justify-content: center;
+    }
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: black;
+    }
+h1 {
+    font-size: 80px;
+} 
+
+h4{
+    font-size: 30px;
+}
+
+img{
+    height: 400px
+}
